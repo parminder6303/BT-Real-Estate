@@ -102,3 +102,7 @@ ENV/
 .mypy_cache/
 
 .notes
+
+#static
+/static
+/media
